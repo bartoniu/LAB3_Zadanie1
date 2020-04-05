@@ -1,0 +1,42 @@
+[
+  {
+    "polish":"płakać",
+    "english": ["cry", "weep"]
+  },
+  {
+    "polish": "krzyczeć",
+    "english": ["shout","cry"]
+  },
+  {
+    "polish": "chodzić",
+    "english": ["walk", "move", "go"]
+  },
+  {
+    "polish": "kolejka",
+    "english": ["queue"]
+  },
+  {
+    "polish": "stos",
+    "english": ["stack"]
+  },
+  {
+    "polish": "południe",
+    "english": ["noon"]
+  },
+  {
+    "polish": "dzień",
+    "english": ["day"]
+  },
+  {
+    "polish": "noc",
+    "english": ["night"]
+  },
+  {
+    "polish": "księżyc",
+    "english": ["moon"]
+  },
+  {
+    "polish": "przewaga",
+    "english": ["advantage", "superiority"]
+  }
+]
